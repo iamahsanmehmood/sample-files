@@ -1,0 +1,15 @@
+From sender@example.com Mon Jan 15 10:30:00 2024
+From: sender@example.com
+To: recipient@example.com
+Subject: Hello World - Message 1
+Date: Mon, 15 Jan 2024 10:30:00 +0000
+
+This is the first message in the mbox file.
+
+From sender@example.com Mon Jan 15 11:00:00 2024
+From: another@example.com
+To: recipient@example.com
+Subject: Re: Hello World - Message 2
+Date: Mon, 15 Jan 2024 11:00:00 +0000
+
+This is the second message, a reply.

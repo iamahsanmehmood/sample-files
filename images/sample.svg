@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea"/>
+      <stop offset="100%" style="stop-color:#764ba2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="400" cy="300" r="120" fill="rgba(255,255,255,0.2)" stroke="white" stroke-width="2"/>
+  <rect x="200" y="150" width="400" height="300" rx="20" fill="none" stroke="white" stroke-width="2"/>
+  <polygon points="400,100 500,250 300,250" fill="rgba(255,200,50,0.7)" stroke="white"/>
+  <text x="400" y="320" font-family="Arial,sans-serif" font-size="48" fill="white" text-anchor="middle" font-weight="bold">Sample SVG</text>
+  <text x="400" y="380" font-family="Arial,sans-serif" font-size="20" fill="rgba(255,255,255,0.8)" text-anchor="middle">A scalable vector graphic for testing</text>
+</svg>

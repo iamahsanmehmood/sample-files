@@ -1,0 +1,18 @@
+# Hello World TOML
+[project]
+name = "Hello World"
+version = "1.0.0"
+description = "A sample TOML file for testing"
+
+[author]
+name = "Sample Files"
+email = "test@example.com"
+
+[settings]
+debug = false
+port = 8080
+
+[database]
+host = "localhost"
+port = 5432
+name = "sample_db"

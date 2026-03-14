@@ -1,0 +1,16 @@
+{
+  "greeting": "Hello, World!",
+  "version": "1.0.0",
+  "authors": ["Sample Files Collection"],
+  "tags": ["sample", "test", "hello-world"],
+  "metadata": {
+    "created": "2024-01-01",
+    "format": "JSON",
+    "description": "A sample JSON file for testing"
+  },
+  "data": [
+    {"id": 1, "name": "Alice", "role": "Developer"},
+    {"id": 2, "name": "Bob", "role": "Designer"},
+    {"id": 3, "name": "Charlie", "role": "Manager"}
+  ]
+}

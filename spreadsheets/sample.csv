@@ -1,0 +1,11 @@
+id,name,email,department,salary,start_date
+1,Alice Johnson,alice@example.com,Engineering,95000,2022-03-15
+2,Bob Smith,bob@example.com,Design,82000,2021-07-01
+3,Charlie Brown,charlie@example.com,Marketing,78000,2023-01-10
+4,Diana Ross,diana@example.com,Engineering,102000,2020-06-20
+5,Eve Williams,eve@example.com,Sales,88000,2022-11-05
+6,Frank Miller,frank@example.com,Engineering,97000,2021-09-12
+7,Grace Lee,grace@example.com,Design,85000,2023-04-01
+8,Henry Davis,henry@example.com,Marketing,76000,2022-08-15
+9,Iris Chen,iris@example.com,Engineering,105000,2020-02-28
+10,Jack Wilson,jack@example.com,Sales,91000,2021-12-01

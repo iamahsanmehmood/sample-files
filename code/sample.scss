@@ -1,0 +1,23 @@
+// Hello World SCSS
+$primary: #667eea;
+$secondary: #764ba2;
+$radius: 12px;
+
+@mixin flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hello-world {
+    @include flex-center;
+    background: linear-gradient(135deg, $primary, $secondary);
+    border-radius: $radius;
+    padding: 2rem;
+    color: white;
+
+    &__title {
+        font-size: 2rem;
+        font-weight: 700;
+    }
+}

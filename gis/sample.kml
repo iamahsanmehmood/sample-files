@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sample KML</name>
+    <description>A sample KML file for testing</description>
+    <Placemark>
+      <name>Eiffel Tower</name>
+      <description>Paris, France</description>
+      <Point>
+        <coordinates>2.2945,48.8584,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Big Ben</name>
+      <description>London, UK</description>
+      <Point>
+        <coordinates>-0.1246,51.5007,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

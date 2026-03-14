@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sample Files//EN
+BEGIN:VEVENT
+DTSTART:20240115T100000Z
+DTEND:20240115T110000Z
+SUMMARY:Hello World Meeting
+DESCRIPTION:A sample calendar event for testing ICS viewers.
+LOCATION:Conference Room A
+ORGANIZER:mailto:organizer@example.com
+ATTENDEE:mailto:attendee@example.com
+STATUS:CONFIRMED
+UID:sample-event-001@example.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+[2024-01-15 08:30:00] INFO  Application starting...
+[2024-01-15 08:30:01] INFO  Loading configuration from config.yaml
+[2024-01-15 08:30:01] DEBUG Database connection pool initialized (size=10)
+[2024-01-15 08:30:02] INFO  Server listening on port 8080
+[2024-01-15 08:30:05] INFO  GET /api/health - 200 OK (2ms)
+[2024-01-15 08:30:10] WARN  High memory usage detected: 85%
+[2024-01-15 08:30:15] INFO  POST /api/users - 201 Created (45ms)
+[2024-01-15 08:30:20] ERROR Failed to connect to external API: timeout after 30s
+[2024-01-15 08:30:20] INFO  Retrying connection (attempt 2/3)...
+[2024-01-15 08:30:22] INFO  Connection re-established successfully

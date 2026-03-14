@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:John Doe
+N:Doe;John;;Mr.;
+ORG:Sample Corp
+TITLE:Software Engineer
+TEL;TYPE=WORK,VOICE:+1-555-123-4567
+TEL;TYPE=CELL:+1-555-987-6543
+EMAIL;TYPE=WORK:john.doe@example.com
+ADR;TYPE=WORK:;;123 Tech Street;San Francisco;CA;94105;US
+URL:https://example.com
+NOTE:This is a sample vCard for testing.
+END:VCARD

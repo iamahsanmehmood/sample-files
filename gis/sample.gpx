@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="SampleFiles"
+  xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Sample GPS Track</name>
+    <desc>A sample GPX track for testing</desc>
+  </metadata>
+  <wpt lat="48.8584" lon="2.2945">
+    <name>Eiffel Tower</name>
+    <desc>Paris landmark</desc>
+  </wpt>
+  <trk>
+    <name>Morning Walk</name>
+    <trkseg>
+      <trkpt lat="48.8566" lon="2.3522"><ele>35</ele><time>2024-01-15T08:00:00Z</time></trkpt>
+      <trkpt lat="48.8576" lon="2.3510"><ele>36</ele><time>2024-01-15T08:05:00Z</time></trkpt>
+      <trkpt lat="48.8584" lon="2.2945"><ele>38</ele><time>2024-01-15T08:30:00Z</time></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

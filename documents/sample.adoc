@@ -1,0 +1,33 @@
+= Hello, World!
+Sample Files Collection
+:toc:
+:icons: font
+
+== Introduction
+
+This is a *sample AsciiDoc* file for testing.
+
+== Features
+
+* **Bold text** and _italic text_
+* `Inline code`
+* https://example.com[Links]
+
+=== Code Block
+
+[source,python]
+----
+def hello():
+    print('Hello, World!')
+----
+
+=== Table
+
+|===
+| Name | Role | Status
+
+| Alice | Developer | Active
+| Bob | Designer | Active
+|===
+
+NOTE: This is a sample note.

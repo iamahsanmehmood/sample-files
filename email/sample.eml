@@ -1,0 +1,28 @@
+From: sender@example.com
+To: recipient@example.com
+Subject: Hello World - Sample Email
+Date: Mon, 15 Jan 2024 10:30:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_12345"
+Message-ID: <sample-001@example.com>
+
+------=_Part_12345
+Content-Type: text/plain; charset="utf-8"
+
+Hello World!
+
+This is a sample email message for testing email parsers and viewers.
+It includes headers, a text body, and demonstrates the EML format.
+
+Best regards,
+Sample Files Collection
+
+------=_Part_12345
+Content-Type: text/plain; name="attachment.txt"
+Content-Disposition: attachment; filename="attachment.txt"
+Content-Transfer-Encoding: 7bit
+
+This is a sample text attachment.
+It demonstrates that EML files can contain attachments.
+
+------=_Part_12345--

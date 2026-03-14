@@ -1,0 +1,40 @@
+# Hello World GraphQL Schema
+
+type Query {
+  hello: String!
+  user(id: ID!): User
+  users(limit: Int = 10): [User!]!
+  posts(published: Boolean): [Post!]!
+}
+
+type Mutation {
+  createUser(input: CreateUserInput!): User!
+  createPost(input: CreatePostInput!): Post!
+}
+
+type User {
+  id: ID!
+  name: String!
+  email: String!
+  posts: [Post!]!
+  createdAt: String!
+}
+
+type Post {
+  id: ID!
+  title: String!
+  body: String
+  published: Boolean!
+  author: User!
+}
+
+input CreateUserInput {
+  name: String!
+  email: String!
+}
+
+input CreatePostInput {
+  title: String!
+  body: String
+  userId: ID!
+}

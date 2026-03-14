@@ -1,0 +1,19 @@
+# Hello World YAML
+project:
+  name: "Hello World"
+  version: "1.0.0"
+  description: "A sample YAML file for testing"
+
+authors:
+  - name: Alice
+    role: Developer
+  - name: Bob
+    role: Designer
+
+settings:
+  debug: false
+  port: 8080
+  database:
+    host: localhost
+    port: 5432
+    name: sample_db

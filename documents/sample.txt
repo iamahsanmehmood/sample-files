@@ -1,0 +1,10 @@
+Hello, World!
+
+This is a sample plain text file for testing.
+It contains multiple lines of text to verify that text viewers
+can properly display content with line breaks and formatting.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+--- End of sample text file ---

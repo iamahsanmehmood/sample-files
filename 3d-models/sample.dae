@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset><created>2024-01-15</created></asset>
+  <library_geometries>
+    <geometry id="cube" name="Cube">
+      <mesh>
+        <source id="positions"><float_array id="pos-array" count="24">-1 -1 -1 1 -1 -1 1 1 -1 -1 1 -1 -1 -1 1 1 -1 1 1 1 1 -1 1 1</float_array>
+          <technique_common><accessor source="#pos-array" count="8" stride="3"><param name="X" type="float"/><param name="Y" type="float"/><param name="Z" type="float"/></accessor></technique_common>
+        </source>
+        <vertices id="verts"><input semantic="POSITION" source="#positions"/></vertices>
+        <triangles count="12"><input semantic="VERTEX" source="#verts" offset="0"/><p>0 1 2 0 2 3 4 6 5 4 7 6 0 5 1 0 4 5 1 5 6 1 6 2 2 6 7 2 7 3 0 3 7 0 7 4</p></triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="CubeNode" name="Cube" type="NODE">
+        <instance_geometry url="#cube"/>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene><instance_visual_scene url="#Scene"/></scene>
+</COLLADA>
