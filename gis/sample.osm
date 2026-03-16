@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="sample-files">
+  <bounds minlat="40.7127" minlon="-74.0060" maxlat="40.7135" maxlon="-74.0050"/>
+  <node id="1" lat="40.7128" lon="-74.0060" version="1">
+    <tag k="name" v="Sample Place"/>
+    <tag k="amenity" v="cafe"/>
+  </node>
+  <node id="2" lat="40.7130" lon="-74.0058" version="1"/>
+  <node id="3" lat="40.7132" lon="-74.0055" version="1"/>
+  <node id="4" lat="40.7130" lon="-74.0052" version="1"/>
+  <way id="100" version="1">
+    <nd ref="2"/>
+    <nd ref="3"/>
+    <nd ref="4"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sample Street"/>
+  </way>
+</osm>

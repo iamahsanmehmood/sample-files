@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.3//EN"
+  "http://www.web3d.org/specifications/x3d-3.3.dtd">
+<X3D profile="Interchange" version="3.3"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance"
+     xsd:noNamespaceSchemaLocation="http://www.web3d.org/specifications/x3d-3.3.xsd">
+  <head>
+    <meta name="title" content="Sample X3D File"/>
+    <meta name="description" content="A simple colored cube"/>
+    <meta name="creator" content="sample-files project"/>
+  </head>
+  <Scene>
+    <Shape>
+      <Appearance>
+        <Material diffuseColor="0.8 0.2 0.2" shininess="0.8"/>
+      </Appearance>
+      <Box size="2 2 2"/>
+    </Shape>
+    <Transform translation="4 0 0">
+      <Shape>
+        <Appearance>
+          <Material diffuseColor="0.2 0.8 0.2"/>
+        </Appearance>
+        <Sphere radius="1"/>
+      </Shape>
+    </Transform>
+    <Transform translation="0 4 0">
+      <Shape>
+        <Appearance>
+          <Material diffuseColor="0.2 0.2 0.8"/>
+        </Appearance>
+        <Cylinder height="2" radius="0.5"/>
+      </Shape>
+    </Transform>
+  </Scene>
+</X3D>

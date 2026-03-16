@@ -13,5 +13,7 @@ Sample image files in various raster and vector formats.
 | sample.ico | ICO | Icon file (256x256) |
 | sample.avif | AVIF | Modern AV1 image format |
 | sample.tiff | TIFF | Tagged Image File Format |
-
-**Note:** HEIC, PSD, and RAW formats (CR2, NEF, ARW, DNG) are planned for future addition.
+| sample.heic | HEIC | High Efficiency Image Container (Apple) |
+| sample.tga | TGA | Targa image format |
+| sample.ppm | PPM | Portable Pixmap format |
+| sample.pcx | PCX | PiCture eXchange format |

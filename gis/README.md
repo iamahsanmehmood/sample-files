@@ -9,5 +9,6 @@ Sample geographic data files with world landmark locations.
 | sample.kmz | KMZ | Compressed KML file |
 | sample.gpx | GPX | GPS track with waypoints |
 | sample.shp | SHP | Shapefile with landmark points |
+| sample.osm | OSM | OpenStreetMap XML with nodes and ways |
 
 Landmarks included: Eiffel Tower (Paris), Statue of Liberty (NYC), Big Ben (London)
