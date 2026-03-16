@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0">
+  <description>
+    <title-info>
+      <genre>science</genre>
+      <author>
+        <first-name>Sample</first-name>
+        <last-name>Author</last-name>
+      </author>
+      <book-title>Sample FictionBook</book-title>
+      <lang>en</lang>
+    </title-info>
+    <document-info>
+      <author>
+        <first-name>Sample</first-name>
+        <last-name>Author</last-name>
+      </author>
+      <program-used>sample-files project</program-used>
+      <date>2024-01-01</date>
+      <id>sample-fb2-001</id>
+      <version>1.0</version>
+    </document-info>
+  </description>
+  <body>
+    <section>
+      <title><p>Chapter 1: Introduction</p></title>
+      <p>This is a sample FictionBook (FB2) file created for testing purposes.</p>
+      <p>The FB2 format is an XML-based e-book format popular in Russia and Eastern Europe.</p>
+      <p>It supports structured content including chapters, paragraphs, and metadata.</p>
+    </section>
+    <section>
+      <title><p>Chapter 2: Content</p></title>
+      <p>This chapter contains sample content to demonstrate the format structure.</p>
+      <p>FB2 files can include images, notes, and other rich content elements.</p>
+    </section>
+  </body>
+</FictionBook>

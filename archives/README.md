@@ -1,14 +1,17 @@
 # Archives & Packages
 
-Sample archive files, each containing at least a text file and an image.
+Sample archive files in various compression and packaging formats.
 
 | File | Format | Description |
 |------|--------|-------------|
 | sample.zip | ZIP | Standard ZIP archive |
 | sample.tar | TAR | Tape archive (uncompressed) |
 | sample.tar.gz | TAR.GZ | Gzip-compressed tar archive |
-| sample.7z | 7Z | 7-Zip archive (if available) |
-| sample.rar | RAR | WinRAR archive (if available) |
+| sample.tar.bz2 | TAR.BZ2 | Bzip2-compressed tar archive |
+| sample.tar.xz | TAR.XZ | XZ-compressed tar archive |
+| sample.gz | GZ | Standalone gzip compressed file |
+| sample.bz2 | BZ2 | Standalone bzip2 compressed file |
+| sample.xz | XZ | Standalone XZ compressed file |
 | sample.jar | JAR | Java Archive with manifest |
 | sample.whl | WHL | Python wheel package |
 | sample.apk | APK | Android application package |

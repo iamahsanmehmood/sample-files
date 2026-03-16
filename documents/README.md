@@ -8,6 +8,7 @@ Sample document files in various formats.
 | sample.docx | DOCX | Microsoft Word document with formatted content |
 | sample.pptx | PPTX | PowerPoint presentation with multiple slides |
 | sample.odt | ODT | OpenDocument Text (LibreOffice compatible) |
+| sample.odp | ODP | OpenDocument Presentation with title slide |
 | sample.rtf | RTF | Rich Text Format with basic formatting |
 | sample.txt | TXT | Plain text file with sample content |
 | sample.log | LOG | Sample application log file with timestamps |

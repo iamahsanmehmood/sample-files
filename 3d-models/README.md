@@ -1,6 +1,6 @@
 # 3D Models
 
-Sample 3D model files. Most contain a simple cube or pyramid geometry.
+Sample 3D model files. Most contain a simple cube or primitive geometry.
 
 | File | Format | Description |
 |------|--------|-------------|
@@ -15,5 +15,4 @@ Sample 3D model files. Most contain a simple cube or pyramid geometry.
 | sample.wrl | WRL | VRML 2.0 scene |
 | sample.amf | AMF | Additive Manufacturing Format (pyramid) |
 | sample.3mf | 3MF | 3D Manufacturing Format (cube) |
-
-**Note:** FBX, STEP, IGES, 3DS, BREP, and 3DM formats are planned for future addition.
+| sample.x3d | X3D | X3D XML format with box, sphere, and cylinder |
