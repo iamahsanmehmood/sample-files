@@ -1,0 +1,9 @@
+#X3D V3.3 utf8
+PROFILE Interchange
+
+Shape {
+  geometry Box { size 2 2 2 }
+  appearance Appearance {
+    material Material { diffuseColor 0.8 0.2 0.2 }
+  }
+}

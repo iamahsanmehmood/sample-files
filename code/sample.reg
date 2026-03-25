@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SampleApp]
+"Version"="1.0.0"
+"InstallPath"="C:\\Program Files\\SampleApp"
+"EnableFeatureX"=dword:00000001
+"LastRun"="2024-01-15T10:00:00"

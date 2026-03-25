@@ -1,0 +1,16 @@
+From: Sample User <sample@example.com>
+Date: Mon, 15 Jan 2024 10:00:00 +0000
+Subject: [PATCH] Add greeting function
+
+---
+ hello.py | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/hello.py b/hello.py
+--- a/hello.py
++++ b/hello.py
+@@ -1,2 +1,4 @@
+-print("hi")
++def greet(name):
++    print(f"Hello, {name}!")
++greet("World")

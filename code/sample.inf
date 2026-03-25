@@ -1,0 +1,10 @@
+[Version]
+Signature="$Windows NT$"
+Class=SampleClass
+ClassGuid={00000000-0000-0000-0000-000000000000}
+Provider=%ManufacturerName%
+DriverVer=01/15/2024,1.0.0.0
+
+[Strings]
+ManufacturerName="Sample Manufacturer"
+DeviceName="Sample Device"

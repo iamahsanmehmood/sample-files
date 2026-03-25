@@ -1,0 +1,3 @@
+{"event":"login","user":"alice","timestamp":"2024-01-15T10:00:00Z"}
+{"event":"page_view","user":"alice","page":"/dashboard","timestamp":"2024-01-15T10:01:00Z"}
+{"event":"click","user":"bob","element":"#submit-btn","timestamp":"2024-01-15T10:02:00Z"}

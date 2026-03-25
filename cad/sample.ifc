@@ -1,0 +1,10 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION(('Sample IFC'),'2;1');
+FILE_NAME('sample.ifc','2024-01-15',('Author'),('Org'),'','','');
+FILE_SCHEMA(('IFC4'));
+ENDSEC;
+DATA;
+#1=IFCPROJECT('0001',#2,'Sample',$,$,$,$,$,$);
+ENDSEC;
+END-ISO-10303-21;
