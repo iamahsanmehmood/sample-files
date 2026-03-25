@@ -1,8 +1,8 @@
 # 📁 Sample Files Collection
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Files](https://img.shields.io/badge/Files-156%2B-blue)](https://github.com/iamahsanmehmood/sample-files)
-[![Formats](https://img.shields.io/badge/Formats-160%2B-green)](https://github.com/iamahsanmehmood/sample-files)
+[![Files](https://img.shields.io/badge/Files-387%2B-blue)](https://github.com/iamahsanmehmood/sample-files)
+[![Formats](https://img.shields.io/badge/Formats-369%2B-green)](https://github.com/iamahsanmehmood/sample-files)
 [![Categories](https://img.shields.io/badge/Categories-16-orange)](https://github.com/iamahsanmehmood/sample-files)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/iamahsanmehmood/sample-files/pulls)
 
@@ -17,30 +17,30 @@ You need a `.heic` image, a `.gltf` 3D model, a `.proto` file, a `.dcm` DICOM sc
 
 ## 💡 The Solution
 
-This repo provides **156+ valid, curated sample files** across **16 categories** and **160+ formats** — all in one place, git-cloneable, and ready to use.
+This repo provides **387+ valid, curated sample files** across **16 categories** and **369+ formats** — all in one place, git-cloneable, and ready to use.
 
 ## 📂 Categories
 
 | Category | Formats | Count |
 |---|---|---|
-| 📄 [Documents](./documents/) | PDF, DOCX, PPTX, ODP, ODT, RTF, TXT, LOG, MD, RST, ADOC | 11 |
-| 📊 [Spreadsheets](./spreadsheets/) | XLSX, XLS, CSV, ODS, TSV | 5 |
-| 🖼️ [Images](./images/) | JPG, PNG, GIF, SVG, HEIC, TIFF, WebP, AVIF, BMP, ICO, PCX, PPM, TGA | 13 |
-| 🎵 [Audio](./audio/) | MP3, WAV, OGG, FLAC, M4A, AAC, MID, MIDI | 8 |
-| 🎬 [Video](./video/) | MP4, WebM, MOV, AVI, MKV, WMV, FLV, OGV | 8 |
-| 💻 [Code](./code/) | JS, TS, JSX, TSX, Python, Java, C, C++, C#, Go, Rust, Ruby, PHP, Swift, Kotlin, Scala, Dart, R, Lua, Perl, Zig, Nim, V, ASM, Groovy, Shell, Batch, PowerShell, Elixir, Haskell, Clojure, HTML, CSS, SCSS, Vue, Svelte, JSON, XML, YAML, TOML, INI, SQL, GraphQL, Proto, Terraform, LaTeX, ENV, CMake, Gradle, Dockerfile, Makefile | 51 |
-| 📦 [Archives](./archives/) | ZIP, TAR, TAR.GZ, TAR.BZ2, TAR.XZ, GZ, BZ2, XZ, APK, JAR, WHL | 11 |
-| 🧊 [3D Models](./3d-models/) | STL, OBJ, MTL, GLTF, GLB, DAE, 3MF, PLY, OFF, AMF, WRL, X3D | 12 |
-| 📐 [CAD](./cad/) | DXF, STEP, STP, IGES, IGS | 5 |
+| 📄 [Documents](./documents/) | PDF, DOCX, DOC, PPTX, PPT, ODP, ODT, RTF, TXT, LOG, MD, RST, ADOC, PAGES, KEY, WPS, WPD, PUB, VSD, ONE, XPS, DJVU, CHM, OXPS, WRI, DOT, DOTX | 27 |
+| 📊 [Spreadsheets](./spreadsheets/) | XLSX, XLS, CSV, ODS, TSV, NUMBERS, XLSM, XLT, XLTX | 9 |
+| 🖼️ [Images](./images/) | JPG, JPEG, PNG, GIF, SVG, WebP, BMP, ICO, AVIF, HEIC, HEIF, TIFF, TIF, PSD, CR2, NEF, ARW, DNG, TGA, EXR, HDR, PCX, PPM, DDS, ICNS, JXL, QOI, SGI, PNM, PGM, PBM, JP2, JPE, JFIF, CUR, ANI, APNG, RAF, ORF, RW2, SR2, X3F | 42 |
+| 🎵 [Audio](./audio/) | MP3, WAV, OGG, FLAC, M4A, AAC, OPUS, AIFF, AIF, WMA, MID, MIDI, AU, SND, AMR, AC3, DTS, RA, CAF, TTA, MKA, SPX, GSM | 23 |
+| 🎬 [Video](./video/) | MP4, WebM, OGV, MOV, AVI, MKV, WMV, FLV, M4V, 3GP, MPG, MPEG, TS, VOB, MTS, M2TS, DIVX, RM, RMVB, ASF, F4V, MXF, 3G2, DV | 24 |
+| 💻 [Code](./code/) | 106 files — JS, TS, Python, Java, C/C++, C#, Go, Rust, Ruby, PHP, Swift, Kotlin, Scala, Dart, Lua, Perl, Zig, Nim, Solidity, OCaml, F#, Julia, Erlang, Crystal, CoffeeScript, Fortran, Pascal, D, HTML, CSS, SCSS, SASS, LESS, Vue, Svelte, Pug, EJS, HBS, ERB, JSON, YAML, TOML, XML, SQL, GraphQL, Proto, Terraform, Diff, Patch, PEM, CRT, and more | 106 |
+| 📦 [Archives](./archives/) | ZIP, TAR, GZ, RAR, 7Z, BZ2, XZ, CBR, CBZ, EXE, DLL, SYS, OCX, MSI, APK, IPA, JAR, WAR, EAR, XPI, CRX, NUPKG, WHL, LZ4, ZST, LZMA, CPIO, DEB, RPM, ISO, DMG, IMG, CAB, ARJ, ACE, GEM, EGG, APPX, MSIX, VSIX, LNK | 44 |
+| 🧊 [3D Models](./3d-models/) | STL, OBJ, GLTF, GLB, PLY, E57, STEP, STP, IGES, IGS, 3DS, FBX, DAE, BREP, 3DM, OFF, 3MF, AMF, WRL, MTL, USDZ, VOX, VTK, VTP, GCODE, PCD, XYZ, PDB, LWO, X3D, X3DV, BLEND | 33 |
+| 📐 [CAD](./cad/) | DXF, DWG, HPGL, PLT, HP2, IFC, RVT, RFA, RTE, SKP, NWD, NWC, DGN, PLN, VSDX | 19 |
 | 📧 [Email & Contacts](./email/) | EML, MSG, MBOX, VCF, ICS | 5 |
 | 🔤 [Fonts](./fonts/) | TTF, OTF, WOFF, WOFF2, EOT | 5 |
-| 🗄️ [Databases](./databases/) | SQLite, DB, SQLite3 | 3 |
-| 📚 [eBooks](./ebooks/) | EPUB, CBZ, FB2 | 3 |
-| 🗺️ [GIS / Maps](./gis/) | GeoJSON, KML, KMZ, GPX, SHP, OSM | 8 |
+| 🗄️ [Databases](./databases/) | SQLite, DB, SQLite3, MDB, ACCDB, SDF, BSON, CBOR, MSGPACK | 9 |
+| 📚 [eBooks](./ebooks/) | EPUB, CBZ, FB2, MOBI, AZW, AZW3, LIT | 7 |
+| 🗺️ [GIS / Maps](./gis/) | GeoJSON, KML, KMZ, GPX, SHP, SHX, DBF, OSM, GML, TopoJSON, WKT, GDB, TAB | 12 |
 | ⚙️ [Executables](./executables/) | EXE, DLL, ELF, SO | 4 |
-| 🔬 [Scientific](./scientific/) | FITS, HDF5, MAT, NC | 4 |
+| 🔬 [Scientific](./scientific/) | DCM, NII, FITS, HDF5, MAT, NC, Parquet, Avro, ORC, CDF, FASTA, FASTQ, PDB, MOL, MOL2, SDF | 16 |
 
-**Total: 156+ files across 160+ formats**
+**Total: 387+ files across 369+ unique formats**
 
 ## 🔧 Quick Start
 
